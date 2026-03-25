@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Jonatan Henrique! 👋</h1>
-<h3 align="center">**Desenvolvedor .NET** | Apaixonado por criar soluções eficientes</h3>
+<h3 align="center">**Desenvolvedor .NET** </h3>
 
 
 - MyWebSite [https://github.com/JonatannHenrique/NewWebSite.git](https://github.com/JonatannHenrique/NewWebSite.git)
