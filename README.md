@@ -1,4 +1,5 @@
-# About Me:
+# Hello, my name is Jonatan Henrique 👋:
+
 I'm currently working on **GameLibraryApi**<br><br>A digital game library inspired by Steam and Epic Games<br><br>
 I'm currently learning **Advanced C#** with focus on Clean Architecture, Domain-Driven Design (DDD), CQRS and automated testing<br><br>
 Ask me about **C#, ASP.NET Core APIs, Entity Framework Core, Minimal APIs, JWT Authentication and backend best practices**<br><br>
