@@ -2,8 +2,6 @@
 <h3 align="center">**Desenvolvedor .NET** | Apaixonado por criar soluções eficientes</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatannhenrique" alt="jonatannhenrique" /></a> </p>
-
 - MyWebSite [https://github.com/JonatannHenrique/NewWebSite.git](https://github.com/JonatannHenrique/NewWebSite.git)
 
 - e-mail **jonatanhenrique4141@gmail.com**
